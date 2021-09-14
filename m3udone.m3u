@@ -1,198 +1,190 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cbs.kcbs.los.angeles.ca.us" tvg-name="cbs.kcbs.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cbs.kcbs.los.angeles.ca.us.png",CBS (KCBS) Los Angeles CA
+#EXTINF:-1 tvg-id="cbs.kcbs.los.angeles.ca.us" tvg-name="cbs.kcbs.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cbs.kcbs.los.angeles.ca.us.png",CBS (KCBS) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbs.kcbs.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="nbc.knbc.los.angeles.ca.us" tvg-name="nbc.knbc.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nbc.knbc.los.angeles.ca.us.png",NBC (KNBC) Los Angeles CA
+#EXTINF:-1 tvg-id="nbc.knbc.los.angeles.ca.us" tvg-name="nbc.knbc.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nbc.knbc.los.angeles.ca.us.png",NBC (KNBC) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="ktla.los.angeles.ca.us" tvg-name="ktla.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ktla.los.angeles.ca.us.png",KTLA LA
+#EXTINF:-1 tvg-id="ktla.los.angeles.ca.us" tvg-name="ktla.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/ktla.los.angeles.ca.us.png",KTLA LA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ktla.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="abc.kabc.los.angeles.ca.us" tvg-name="abc.kabc.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/abc.kabc.los.angeles.ca.us.png",ABC (KABC) Los Angeles CA
+#EXTINF:-1 tvg-id="abc.kabc.los.angeles.ca.us" tvg-name="abc.kabc.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/abc.kabc.los.angeles.ca.us.png",ABC (KABC) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="abc.kabc.los.angeles.ca.us" tvg-name="abc.kabc.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/abc.kabc.los.angeles.ca.us.png",ABC (KABC) Los Angeles CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="kcal.los.angeles.us" tvg-name="kcal.los.angeles.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/kcal.los.angeles.us.png",CBS KCAL Los Angeles
+#EXTINF:-1 tvg-id="kcal.los.angeles.us" tvg-name="kcal.los.angeles.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kcal.los.angeles.us.png",CBS KCAL Los Angeles
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kcal.los.angeles.us.m3u8
-#EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="fox.kttv.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.kttv.los.angeles.ca.us.png",FOX (KTTV) Los Angeles CA
+#EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="fox.kttv.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.kttv.los.angeles.ca.us.png",FOX (KTTV) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="fox.kttv.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.kttv.los.angeles.ca.us.png",FOX (KTTV) Los Angeles CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="mnt.kcop.los.angeles.ca.us" tvg-name="mnt.kcop.los.angeles.ca.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/mnt.kcop.los.angeles.ca.us.png",MNT (KCOP) Los Angeles CA
+#EXTINF:-1 tvg-id="mnt.kcop.los.angeles.ca.us" tvg-name="mnt.kcop.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mnt.kcop.los.angeles.ca.us.png",MNT (KCOP) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mnt.kcop.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="spectrum.sportsnet.la.dodgers.us" tvg-name="spectrum.sportsnet.la.dodgers.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.us.png",Spectrum SportsNet LA Lakers
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.dodgers.us" tvg-name="spectrum.sportsnet.la.dodgers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.us.png",Spectrum SportsNet LA Lakers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.us.m3u8
-#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="spectrum.sportsnet.la.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.dodgers.us.png",Spectrum SportsNet LA Dodgers
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="spectrum.sportsnet.la.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.dodgers.us.png",Spectrum SportsNet LA Dodgers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.dodgers.us.m3u8
-#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.east.us.m3u8
-#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
+#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.pacific.us.m3u8
-#EXTINF:-1 tvg-id="nba.tv.canada.ca" tvg-name="nba.tv.canada.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nba.tv.canada.ca.png",NBA TV CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV USA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.lakers.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.clippers.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.laa.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.lad.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lac.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lar.us.m3u8
-#EXTINF:-1 tvg-id="nhl.lak.ca" tvg-name="nhl.lak.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nhl.lak.ca.png",NHL Los Angeles Kings
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.lak.ca.m3u8
-#EXTINF:-1 tvg-id="nhl.ana.ca" tvg-name="nhl.ana.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nhl.ana.ca.png",NHL Anaheim Ducks
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.ana.ca.m3u8
-#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
-#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.news.us.m3u8
-#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.america.east.us.m3u8
-#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="bbc.earth.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/bbc.earth.ca.png",BBC Earth CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.earth.ca.m3u8
-#EXTINF:-1 tvg-id="bbc.first.ca" tvg-name="bbc.first.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/bbc.first.ca.png",BBC First
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.first.ca.m3u8
-#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
-#EXTINF:-1 tvg-id="cbc.cbut.vancouver.bc.ca" tvg-name="cbc.cbut.vancouver.bc.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cbc.cbut.vancouver.bc.ca.png",CBC Vancouver
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8
-#EXTINF:-1 tvg-id="city.montreal.qc.ca" tvg-name="city.montreal.qc.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/city.montreal.qc.ca.png",CITY Montreal QC
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.montreal.qc.ca.m3u8
-#EXTINF:-1 tvg-id="city.toronto.on.ca" tvg-name="city.toronto.on.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/city.toronto.on.ca.png",CITY Toronto CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.toronto.on.ca.m3u8
-#EXTINF:-1 tvg-id="city.vancouver.bc.ca" tvg-name="city.vancouver.bc.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/city.vancouver.bc.ca.png",CITY Vancouver BC
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.vancouver.bc.ca.m3u8
-#EXTINF:-1 tvg-id="ctv.vancouver.bc.ca" tvg-name="ctv.vancouver.bc.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ctv.vancouver.bc.ca.png",CTV Vancouver CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ctv.vancouver.bc.ca.m3u8
-#EXTINF:-1 tvg-id="dog.tv.us" tvg-name="dog.tv.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/dog.tv.us.png",Dog TV
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/dog.tv.us.m3u8
-#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/adult.swim.east.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="animal.planet.canada.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/animal.planet.canada.ca.png",Animal Planet
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.canada.ca.m3u8
-#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="animal.planet.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/animal.planet.uk.png",Animal Planet UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.uk.m3u8
-#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.eastern.us.m3u8
-#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/discovery.science.canada.ca.png",Discovery Science CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.canada.ca.m3u8
-#EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="discovery.velocity.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/discovery.velocity.ca.png",Discovery Velocity CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.velocity.ca.m3u8
-#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.eastern.us.m3u8
-#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nat.geo.uk.png",National Geographic UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.uk.m3u8
-#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/science.us.png",Science US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/science.us.m3u8
-#EXTINF:-1 tvg-id="sky.documntrs.uk" tvg-name="sky.documntrs.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/sky.documntrs.uk.png",Sky Documentaries
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.documntrs.uk.m3u8
-#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.eastern.us.m3u8
-#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.weather.channel.us.m3u8
-#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.channel.uk.m3u8
-#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
-#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.cooking.channel.us.m3u8
-#EXTINF:-1 tvg-id="tastemade.us" tvg-name="tastemade.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/tastemade.us.png",Tastemade
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tastemade.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
-#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
-#EXTINF:-1 tvg-id="nsw.sydney.racing.com.au" tvg-name="nsw.sydney.racing.com.au" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nsw.sydney.racing.com.au.png",Racing AU
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.racing.com.au.m3u8
-#EXTINF:-1 tvg-id="racing.tv.uk" tvg-name="racing.tv.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/racing.tv.uk.png",Racing UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/racing.tv.uk.m3u8
-#EXTINF:-1 tvg-id="att.sportsnet.southwest.houston.us" tvg-name="att.sportsnet.southwest.houston.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/att.sportsnet.southwest.houston.us.png",AT&T Sportsnet Southwest
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/att.sportsnet.southwest.houston.us.m3u8
-#EXTINF:-1 tvg-id="fox.sports.southwest.us" tvg-name="fox.sports.southwest.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.sports.southwest.us.png",Bally Sports Southwest US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.southwest.us.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.1.uk.m3u8
-#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.2.uk.m3u8
-#EXTINF:-1 tvg-id="nsw.sydney.fox.footy.au" tvg-name="nsw.sydney.fox.footy.au" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nsw.sydney.fox.footy.au.png",Fox Footy AU
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.footy.au.m3u8
-#EXTINF:-1 tvg-id="nsw.sydney.fox.league.au" tvg-name="nsw.sydney.fox.league.au" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nsw.sydney.fox.league.au.png",Fox LEAGUE AU
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.league.au.m3u8
-#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.sports.1.us.png",Fox Sports 1
+#EXTINF:-1 tvg-id="nba.tv.canada.ca" tvg-name="nba.tv.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.canada.ca.png",NBA TV CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV USA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.1.us.png",Fox Sports 1
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.1.us.m3u8
-#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.sports.2.us.png",Fox Sports 2
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.2.us.png",Fox Sports 2
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.2.us.m3u8
-#EXTINF:-1 tvg-id="fox.sports.west.prime.ticket.us" tvg-name="fox.sports.west.prime.ticket.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.sports.west.prime.ticket.us.png",Fox Sports Prime Ticket US
+#EXTINF:-1 tvg-id="fox.sports.west.prime.ticket.us" tvg-name="fox.sports.west.prime.ticket.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.west.prime.ticket.us.png",Fox Sports Prime Ticket US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.west.prime.ticket.us.m3u8
-#EXTINF:-1 tvg-id="fox.sports.west.us" tvg-name="fox.sports.west.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/fox.sports.west.us.png",Fox Sports West US
+#EXTINF:-1 tvg-id="fox.sports.west.us" tvg-name="fox.sports.west.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.west.us.png",Fox Sports West US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.west.us.m3u8
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="freesports.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/freesports.uk.png",FreeSports
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/freesports.uk.m3u8
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="laligatv.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/laligatv.uk.png",La Liga TV
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/laligatv.uk.m3u8
-#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mfghdzzfhs.ss.m3u8
-#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="qkihgakk.ss" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/qkihgakk.ss.png",Sky Sports F1
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/qkihgakk.ss.m3u8
-#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="szckleid.ss" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/szckleid.ss.png",Sky Sports Mix
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/szckleid.ss.m3u8
-#EXTINF:-1 tvg-id="oqsogftr.ss" tvg-name="oqsogftr.ss" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/oqsogftr.ss.png",Sky Sports Racing
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/oqsogftr.ss.m3u8
-#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="sportsnet.pacific.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/sportsnet.pacific.ca.png",Sportsnet Pacific CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.pacific.ca.m3u8
-#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="sportsnet.west.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/sportsnet.west.ca.png",Sportsnet West CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.west.ca.m3u8
-#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="sportsnet.world.ca" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/sportsnet.world.ca.png",Sportsnet World CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.world.ca.m3u8
-#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.ze.m3u8
-#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",SuperSport Football+
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.plus.ze.m3u8
-#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.la.liga.ze.m3u8
-#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.motorsport.ze.m3u8
-#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.premier.league.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.variety.1.ze.png",SuperSport Variety 1
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.1.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.variety.2.ze.png",SuperSport Variety 2
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.2.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.3.ze" tvg-name="ss.variety.3.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.variety.3.ze.png",SuperSport Variety 3
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.3.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/ss.variety.4.ze.png",SuperSport Variety 4
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.4.ze.m3u8
-#EXTINF:-1 tvg-id="nbc.sports.california.us" tvg-name="nbc.sports.california.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nbc.sports.california.us.png",NBC Sports California
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.sports.california.us.m3u8
-#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.1.uk.m3u8
-#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.2.uk.m3u8
-#EXTINF:-1 tvg-id="premier.3.uk" tvg-name="premier.3.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/premier.3.uk.png",Premier 3
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.3.uk.m3u8
-#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
+#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.lakers.us.m3u8
+#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.clippers.us.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.laa.us.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.lad.us.m3u8
+#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lac.us.m3u8
+#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lar.us.m3u8
+#EXTINF:-1 tvg-id="nhl.lak.ca" tvg-name="nhl.lak.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nhl.lak.ca.png",NHL Los Angeles Kings
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.lak.ca.m3u8
+#EXTINF:-1 tvg-id="nhl.ana.ca" tvg-name="nhl.ana.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nhl.ana.ca.png",NHL Anaheim Ducks
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.ana.ca.m3u8
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.america.east.us.m3u8
+#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="bbc.earth.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.earth.ca.png",BBC Earth CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.earth.ca.m3u8
+#EXTINF:-1 tvg-id="bbc.first.ca" tvg-name="bbc.first.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.first.ca.png",BBC First
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.first.ca.m3u8
+#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="cbc.cbut.vancouver.bc.ca" tvg-name="cbc.cbut.vancouver.bc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cbc.cbut.vancouver.bc.ca.png",CBC Vancouver
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8
+#EXTINF:-1 tvg-id="city.montreal.qc.ca" tvg-name="city.montreal.qc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/city.montreal.qc.ca.png",CITY Montreal QC
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.montreal.qc.ca.m3u8
+#EXTINF:-1 tvg-id="city.toronto.on.ca" tvg-name="city.toronto.on.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/city.toronto.on.ca.png",CITY Toronto CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.toronto.on.ca.m3u8
+#EXTINF:-1 tvg-id="city.vancouver.bc.ca" tvg-name="city.vancouver.bc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/city.vancouver.bc.ca.png",CITY Vancouver BC
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.vancouver.bc.ca.m3u8
+#EXTINF:-1 tvg-id="ctv.vancouver.bc.ca" tvg-name="ctv.vancouver.bc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/ctv.vancouver.bc.ca.png",CTV Vancouver CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ctv.vancouver.bc.ca.m3u8
+#EXTINF:-1 tvg-id="dog.tv.us" tvg-name="dog.tv.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/dog.tv.us.png",Dog TV
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/dog.tv.us.m3u8
+#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/adult.swim.east.us.m3u8
+#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="animal.planet.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/animal.planet.canada.ca.png",Animal Planet
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.canada.ca.m3u8
+#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
+#EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="animal.planet.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/animal.planet.uk.png",Animal Planet UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/discovery.science.canada.ca.png",Discovery Science CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.canada.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="discovery.velocity.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/discovery.velocity.ca.png",Discovery Velocity CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.velocity.ca.m3u8
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.eastern.us.m3u8
+#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nat.geo.uk.png",National Geographic UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/science.us.png",Science US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/science.us.m3u8
+#EXTINF:-1 tvg-id="sky.documntrs.uk" tvg-name="sky.documntrs.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/sky.documntrs.uk.png",Sky Documentaries
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.documntrs.uk.m3u8
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.weather.channel.us.m3u8
+#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.channel.uk.m3u8
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.us.east.us.m3u8
+#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.cooking.channel.us.m3u8
+#EXTINF:-1 tvg-id="tastemade.us" tvg-name="tastemade.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tastemade.us.png",Tastemade
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tastemade.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1 tvg-id="att.sportsnet.southwest.houston.us" tvg-name="att.sportsnet.southwest.houston.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/att.sportsnet.southwest.houston.us.png",AT&T Sportsnet Southwest
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/att.sportsnet.southwest.houston.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.southwest.us" tvg-name="fox.sports.southwest.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.southwest.us.png",Bally Sports Southwest US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.southwest.us.m3u8
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kerrang.uk.m3u8
-#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="_fav" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
+#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nasa.4k.us.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.1.uk.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.2.uk.m3u8
+#EXTINF:-1 tvg-id="nsw.sydney.fox.footy.au" tvg-name="nsw.sydney.fox.footy.au" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nsw.sydney.fox.footy.au.png",Fox Footy AU
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.footy.au.m3u8
+#EXTINF:-1 tvg-id="nsw.sydney.fox.league.au" tvg-name="nsw.sydney.fox.league.au" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nsw.sydney.fox.league.au.png",Fox LEAGUE AU
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.league.au.m3u8
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="freesports.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/freesports.uk.png",FreeSports
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/freesports.uk.m3u8
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="laligatv.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/laligatv.uk.png",La Liga TV
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/laligatv.uk.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.california.us" tvg-name="nbc.sports.california.us" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nbc.sports.california.us.png",NBC Sports California
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.1.uk.m3u8
+#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.2.uk.m3u8
+#EXTINF:-1 tvg-id="premier.3.uk" tvg-name="premier.3.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.3.uk.png",Premier 3
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.3.uk.m3u8
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mfghdzzfhs.ss.m3u8
+#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="qkihgakk.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/qkihgakk.ss.png",Sky Sports F1
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/qkihgakk.ss.m3u8
+#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="szckleid.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/szckleid.ss.png",Sky Sports Mix
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/szckleid.ss.m3u8
+#EXTINF:-1 tvg-id="oqsogftr.ss" tvg-name="oqsogftr.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/oqsogftr.ss.png",Sky Sports Racing
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/oqsogftr.ss.m3u8
+#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="sportsnet.pacific.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.pacific.ca.png",Sportsnet Pacific CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.pacific.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="sportsnet.west.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.west.ca.png",Sportsnet West CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.west.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="sportsnet.world.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.world.ca.png",Sportsnet World CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.world.ca.m3u8
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.ze.m3u8
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",SuperSport Football+
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.plus.ze.m3u8
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.la.liga.ze.m3u8
+#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.motorsport.ze.m3u8
+#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.motorsport.ze.m3u8
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.premier.league.ze.m3u8
+#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.1.ze.png",SuperSport Variety 1
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.1.ze.m3u8
+#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.2.ze.png",SuperSport Variety 2
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.2.ze.m3u8
+#EXTINF:-1 tvg-id="ss.variety.3.ze" tvg-name="ss.variety.3.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.3.ze.png",SuperSport Variety 3
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.3.ze.m3u8
+#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.4.ze.png",SuperSport Variety 4
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.4.ze.m3u8
 #EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
 #EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="animal.planet.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.uk.png",Animal Planet UK
