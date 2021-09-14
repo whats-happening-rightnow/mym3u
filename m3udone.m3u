@@ -3,34 +3,24 @@
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbs.kcbs.los.angeles.ca.us.m3u8
 #EXTINF:-1 tvg-id="nbc.knbc.los.angeles.ca.us" tvg-name="nbc.knbc.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nbc.knbc.los.angeles.ca.us.png",NBC (KNBC) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="ktla.los.angeles.ca.us" tvg-name="ktla.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/ktla.los.angeles.ca.us.png",KTLA LA
+#EXTINF:-1 tvg-id="ktla.los.angeles.ca.us" tvg-name="ktla.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/ktla.los.angeles.ca.us.png",CW (KTLA) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ktla.los.angeles.ca.us.m3u8
 #EXTINF:-1 tvg-id="abc.kabc.los.angeles.ca.us" tvg-name="abc.kabc.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/abc.kabc.los.angeles.ca.us.png",ABC (KABC) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="kcal.los.angeles.us" tvg-name="kcal.los.angeles.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kcal.los.angeles.us.png",CBS KCAL Los Angeles
+#EXTINF:-1 tvg-id="kcal.los.angeles.us" tvg-name="kcal.los.angeles.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kcal.los.angeles.us.png",CBS (KCAL) Los Angeles
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kcal.los.angeles.us.m3u8
 #EXTINF:-1 tvg-id="fox.kttv.los.angeles.ca.us" tvg-name="fox.kttv.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.kttv.los.angeles.ca.us.png",FOX (KTTV) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.kttv.los.angeles.ca.us.m3u8
 #EXTINF:-1 tvg-id="mnt.kcop.los.angeles.ca.us" tvg-name="mnt.kcop.los.angeles.ca.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mnt.kcop.los.angeles.ca.us.png",MNT (KCOP) Los Angeles CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mnt.kcop.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="spectrum.sportsnet.la.dodgers.us" tvg-name="spectrum.sportsnet.la.dodgers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.us.png",Spectrum SportsNet LA Lakers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.us.m3u8
-#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="spectrum.sportsnet.la.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.dodgers.us.png",Spectrum SportsNet LA Dodgers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.dodgers.us.m3u8
-#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.east.us.m3u8
-#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.pacific.us.m3u8
+#EXTINF:-1 tvg-id="pbs.wnet.new.york.ny.us" tvg-name="pbs.wnet.new.york.ny.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/pbs.wnet.new.york.ny.us.png",PBS (WNET) New York
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pbs.wnet.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn2.us.m3u8
 #EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.news.us.m3u8
-#EXTINF:-1 tvg-id="nba.tv.canada.ca" tvg-name="nba.tv.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.canada.ca.png",NBA TV CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV USA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.usa.us.m3u8
 #EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.1.us.png",Fox Sports 1
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.1.us.m3u8
 #EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.2.us.png",Fox Sports 2
@@ -39,30 +29,38 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.2.us
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.west.prime.ticket.us.m3u8
 #EXTINF:-1 tvg-id="fox.sports.west.us" tvg-name="fox.sports.west.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.west.us.png",Fox Sports West US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.west.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.lakers.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.clippers.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.laa.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.lad.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lac.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lar.us.m3u8
-#EXTINF:-1 tvg-id="nhl.lak.ca" tvg-name="nhl.lak.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nhl.lak.ca.png",NHL Los Angeles Kings
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.lak.ca.m3u8
-#EXTINF:-1 tvg-id="nhl.ana.ca" tvg-name="nhl.ana.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nhl.ana.ca.png",NHL Anaheim Ducks
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.ana.ca.m3u8
+#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV USA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 tvg-id="nba.tv.canada.ca" tvg-name="nba.tv.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.tv.canada.ca.png",NBA TV CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.tv.canada.ca.m3u8
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="spectrum.sportsnet.la.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.dodgers.us.png",Spectrum SportsNet LA Dodgers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.dodgers.us.m3u8
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.dodgers.us" tvg-name="spectrum.sportsnet.la.dodgers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.us.png",Spectrum SportsNet LA Lakers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/spectrum.sportsnet.la.us.m3u8
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.pacific.us.m3u8
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="tbs.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tbs.east.us.png",TBS
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tbs.east.us.m3u8
+#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="bloomberg.tv.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bloomberg.tv.usa.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.america.east.us.m3u8
 #EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="bbc.earth.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.earth.ca.png",BBC Earth CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.earth.ca.m3u8
 #EXTINF:-1 tvg-id="bbc.first.ca" tvg-name="bbc.first.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.first.ca.png",BBC First
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.first.ca.m3u8
-#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="cbc.cbut.vancouver.bc.ca" tvg-name="cbc.cbut.vancouver.bc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cbc.cbut.vancouver.bc.ca.png",CBC Vancouver
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8
 #EXTINF:-1 tvg-id="city.montreal.qc.ca" tvg-name="city.montreal.qc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/city.montreal.qc.ca.png",CITY Montreal QC
@@ -73,8 +71,6 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.toronto.on
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/city.vancouver.bc.ca.m3u8
 #EXTINF:-1 tvg-id="ctv.vancouver.bc.ca" tvg-name="ctv.vancouver.bc.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/ctv.vancouver.bc.ca.png",CTV Vancouver CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ctv.vancouver.bc.ca.m3u8
-#EXTINF:-1 tvg-id="dog.tv.us" tvg-name="dog.tv.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/dog.tv.us.png",Dog TV
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/dog.tv.us.m3u8
 #EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/adult.swim.east.us.m3u8
 #EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="animal.planet.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/animal.planet.canada.ca.png",Animal Planet
@@ -85,6 +81,10 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.u
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.uk.m3u8
 #EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.us.eastern.us.m3u8
 #EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/discovery.science.canada.ca.png",Discovery Science CA
@@ -93,6 +93,14 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.scien
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.velocity.ca.m3u8
 #EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.eastern.us.m3u8
+#EXTINF:-1 tvg-id="dog.tv.us" tvg-name="dog.tv.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/dog.tv.us.png",Dog TV
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/dog.tv.us.m3u8
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kerrang.uk.m3u8
+#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nasa.4k.us.m3u8
 #EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nat.geo.uk.png",National Geographic UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/science.us.png",Science US
@@ -103,604 +111,84 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.documntrs.u
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.eastern.us.m3u8
 #EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="tastemade.us" tvg-name="tastemade.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tastemade.us.png",Tastemade
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tastemade.us.m3u8
 #EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.weather.channel.us.m3u8
-#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel
+#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.channel.uk.m3u8
 #EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
-#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.cooking.channel.us.m3u8
-#EXTINF:-1 tvg-id="tastemade.us" tvg-name="tastemade.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tastemade.us.png",Tastemade
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tastemade.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
-#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
-#EXTINF:-1 tvg-id="att.sportsnet.southwest.houston.us" tvg-name="att.sportsnet.southwest.houston.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/att.sportsnet.southwest.houston.us.png",AT&T Sportsnet Southwest
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/att.sportsnet.southwest.houston.us.m3u8
-#EXTINF:-1 tvg-id="fox.sports.southwest.us" tvg-name="fox.sports.southwest.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/fox.sports.southwest.us.png",Bally Sports Southwest US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fox.sports.southwest.us.m3u8
-#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kerrang.uk.m3u8
-#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nasa.4k.us.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
+#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.lakers.us.m3u8
+#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.clippers.us.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.laa.us.m3u8
+#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.lad.us.m3u8
+#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lac.us.m3u8
+#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lar.us.m3u8
+#EXTINF:-1 tvg-id="nhl.lak.ca" tvg-name="nhl.lak.ca" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nhl.lak.ca.png",NHL Los Angeles Kings
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.lak.ca.m3u8
+#EXTINF:-1 tvg-id="nhl.ana.ca" tvg-name="nhl.ana.ca" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nhl.ana.ca.png",NHL Anaheim Ducks
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nhl.ana.ca.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.1.uk.m3u8
-#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
+#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/eurosport.2.uk.m3u8
-#EXTINF:-1 tvg-id="nsw.sydney.fox.footy.au" tvg-name="nsw.sydney.fox.footy.au" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nsw.sydney.fox.footy.au.png",Fox Footy AU
+#EXTINF:-1 tvg-id="nsw.sydney.fox.footy.au" tvg-name="nsw.sydney.fox.footy.au" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nsw.sydney.fox.footy.au.png",Fox Footy AU
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.footy.au.m3u8
-#EXTINF:-1 tvg-id="nsw.sydney.fox.league.au" tvg-name="nsw.sydney.fox.league.au" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nsw.sydney.fox.league.au.png",Fox LEAGUE AU
+#EXTINF:-1 tvg-id="nsw.sydney.fox.league.au" tvg-name="nsw.sydney.fox.league.au" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nsw.sydney.fox.league.au.png",Fox LEAGUE AU
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nsw.sydney.fox.league.au.m3u8
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="freesports.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/freesports.uk.png",FreeSports
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="freesports.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/freesports.uk.png",FreeSports
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/freesports.uk.m3u8
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="laligatv.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/laligatv.uk.png",La Liga TV
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="laligatv.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/laligatv.uk.png",La Liga TV
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/laligatv.uk.m3u8
-#EXTINF:-1 tvg-id="nbc.sports.california.us" tvg-name="nbc.sports.california.us" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/nbc.sports.california.us.png",NBC Sports California
+#EXTINF:-1 tvg-id="nbc.sports.california.us" tvg-name="nbc.sports.california.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nbc.sports.california.us.png",NBC Sports California
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.sports.california.us.m3u8
-#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
+#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.1.uk.m3u8
-#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
+#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.2.uk.m3u8
-#EXTINF:-1 tvg-id="premier.3.uk" tvg-name="premier.3.uk" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/premier.3.uk.png",Premier 3
+#EXTINF:-1 tvg-id="premier.3.uk" tvg-name="premier.3.uk" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/premier.3.uk.png",Premier 3
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/premier.3.uk.m3u8
-#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mfghdzzfhs.ss.m3u8
-#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="qkihgakk.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/qkihgakk.ss.png",Sky Sports F1
+#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="qkihgakk.ss" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/qkihgakk.ss.png",Sky Sports F1
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/qkihgakk.ss.m3u8
-#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="szckleid.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/szckleid.ss.png",Sky Sports Mix
+#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="szckleid.ss" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/szckleid.ss.png",Sky Sports Mix
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/szckleid.ss.m3u8
-#EXTINF:-1 tvg-id="oqsogftr.ss" tvg-name="oqsogftr.ss" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/oqsogftr.ss.png",Sky Sports Racing
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/oqsogftr.ss.m3u8
-#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="sportsnet.pacific.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.pacific.ca.png",Sportsnet Pacific CA
+#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="sportsnet.pacific.ca" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/sportsnet.pacific.ca.png",Sportsnet Pacific CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.pacific.ca.m3u8
-#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="sportsnet.west.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.west.ca.png",Sportsnet West CA
+#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="sportsnet.west.ca" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/sportsnet.west.ca.png",Sportsnet West CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.west.ca.m3u8
-#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="sportsnet.world.ca" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/sportsnet.world.ca.png",Sportsnet World CA
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="sportsnet.world.ca" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/sportsnet.world.ca.png",Sportsnet World CA
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sportsnet.world.ca.m3u8
-#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.ze.m3u8
-#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",SuperSport Football+
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",SuperSport Football+
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.football.plus.ze.m3u8
-#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.la.liga.ze.m3u8
-#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
+#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.motorsport.ze.m3u8
-#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
+#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="ss.motorsport.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.motorsport.ze.png",SuperSport Motorsport
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.motorsport.ze.m3u8
-#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.premier.league.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.1.ze.png",SuperSport Variety 1
+#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.variety.1.ze.png",SuperSport Variety 1
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.1.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.2.ze.png",SuperSport Variety 2
+#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.variety.2.ze.png",SuperSport Variety 2
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.2.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.3.ze" tvg-name="ss.variety.3.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.3.ze.png",SuperSport Variety 3
+#EXTINF:-1 tvg-id="ss.variety.3.ze" tvg-name="ss.variety.3.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.variety.3.ze.png",SuperSport Variety 3
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.3.ze.m3u8
-#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" tvg-type="live" group-title="mysports" tvg-logo="https://media.tv4.live/ss.variety.4.ze.png",SuperSport Variety 4
+#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/ss.variety.4.ze.png",SuperSport Variety 4
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ss.variety.4.ze.m3u8
-#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="animal.planet.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.uk.png",Animal Planet UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.uk.m3u8
-#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
-#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="discovery.channel.can.ca" tvg-name="discovery.channel.can.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.channel.can.ca.png",Discovery Channel CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.can.ca.m3u8
-#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.family.channel.us.png",Discovery Family US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.family.channel.us.m3u8
-#EXTINF:-1 tvg-id="discovery.history.uk" tvg-name="discovery.history.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.history.uk.png",Discovery History UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.history.uk.m3u8
-#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.science.canada.ca.png",Discovery Science CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.canada.ca.m3u8
-#EXTINF:-1 tvg-id="discovery.science.uk" tvg-name="discovery.science.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.science.uk.png",Discovery Science UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.uk.m3u8
-#EXTINF:-1 tvg-id="discovery.turbo.uk" tvg-name="discovery.turbo.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.turbo.uk.png",Discovery Turbo UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.turbo.uk.m3u8
-#EXTINF:-1 tvg-id="discovery.uk" tvg-name="discovery.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.uk.png",Discovery UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.uk.m3u8
-#EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="discovery.velocity.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.velocity.ca.png",Discovery Velocity CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.velocity.ca.m3u8
-#EXTINF:-1 tvg-id="do.it.yourself.network.canada.ca" tvg-name="do.it.yourself.network.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/do.it.yourself.network.canada.ca.png",DIY Network CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/do.it.yourself.network.canada.ca.m3u8
-#EXTINF:-1 tvg-id="do.it.yourself.network.usa.east.us" tvg-name="do.it.yourself.network.usa.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/do.it.yourself.network.usa.east.us.png",Do It Yourself Network (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="food.network.usa.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",Food Network (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/food.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="food.network.uk" tvg-name="food.network.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/food.network.uk.png",Food Network UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/food.network.uk.m3u8
-#EXTINF:-1 tvg-id="history.2.canada.ca" tvg-name="history.2.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.2.canada.ca.png",H2 CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.2.canada.ca.m3u8
-#EXTINF:-1 tvg-id="history2.uk" tvg-name="history2.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history2.uk.png",H2 UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history2.uk.m3u8
-#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-name="history.canada.east.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.canada.east.ca.png",History CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.canada.east.ca.m3u8
-#EXTINF:-1 tvg-id="history.channel.us.east.us" tvg-name="history.channel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.channel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="investigation.discovery.canada.ca" tvg-name="investigation.discovery.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/investigation.discovery.canada.ca.png",Investigation Discovery CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/investigation.discovery.canada.ca.m3u8
-#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="investigation.discovery.usa.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/investigation.discovery.usa.eastern.us.png",Investigation Discovery US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
-#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nasa.4k.us.m3u8
-#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="national.geographic.wild.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.wild.canada.ca.png",Nat Geo Wild CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.wild.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nat.geo.wild.uk" tvg-name="nat.geo.wild.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nat.geo.wild.uk.png",Nat Geo Wild UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.wild.uk.m3u8
-#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="national.geographic.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.canada.ca.png",National Geographic CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nat.geo.uk.png",National Geographic UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.uk.m3u8
-#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.us.eastern.us.png",National Geographic US (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.wild.us.png",National Geographic Wild
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.wild.us.m3u8
-#EXTINF:-1 tvg-id="rt.documentary.us" tvg-name="rt.documentary.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/rt.documentary.us.png",Rt Documentary
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/rt.documentary.us.m3u8
-#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/science.us.png",Science US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/science.us.m3u8
-#EXTINF:-1 tvg-id="sky.documntrs.uk" tvg-name="sky.documntrs.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/sky.documntrs.uk.png",Sky Documentaries
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.documntrs.uk.m3u8
-#EXTINF:-1 tvg-id="history.uk" tvg-name="history.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.uk.png",Sky History UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.uk.m3u8
-#EXTINF:-1 tvg-id="sundancetv.usa.east.us" tvg-name="sundancetv.usa.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/sundancetv.usa.east.us.png",SundanceTV (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sundancetv.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.channel.uk.m3u8
-#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="tv.land.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/tv.land.eastern.us.png",Tv Land US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tv.land.eastern.us.m3u8
-#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png",5 Star Max (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/5.star.max.eastern.us.m3u8
-#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/ae.us.eastern.us.png",A&E (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ae.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="actionmax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/actionmax.eastern.us.png",ActionMax (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/adult.swim.east.us.m3u8
-#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="bravo.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/bravo.usa.eastern.us.png",Bravo (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bravo.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="bravo.usa.pacific.us" tvg-name="bravo.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/bravo.usa.pacific.us.png",Bravo (West)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bravo.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="cinemax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/cinemax.eastern.us.png",Cinemax (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="cinemax.pacific.us" tvg-name="cinemax.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/cinemax.pacific.us.png",Cinemax (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cinemax.pacific.us.m3u8
-#EXTINF:-1 tvg-id="comedy.central.uk" tvg-name="comedy.central.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comedy.central.uk.png",Comedy Central UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.uk.m3u8
-#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.eastern.us.m3u8
-#EXTINF:-1 tvg-id="comet.tv.us" tvg-name="comet.tv.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comet.tv.us.png",Comet TV
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comet.tv.us.m3u8
-#EXTINF:-1 tvg-id="crime.investigation.ca" tvg-name="crime.investigation.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/crime.investigation.ca.png",Crime & Investigation CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/crime.investigation.ca.m3u8
-#EXTINF:-1 tvg-id="e.canada.ca" tvg-name="e.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.canada.ca.png",E! CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.canada.ca.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="e.entertainment.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.entertainment.usa.eastern.us.png",E! Entertainment (Eest)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.entertainment.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.usa.pacific.us" tvg-name="e.entertainment.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.entertainment.usa.pacific.us.png",E! Entertainment (West)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.entertainment.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="ee.uk" tvg-name="ee.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/ee.uk.png",E! UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ee.uk.m3u8
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="film4.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/film4.uk.png",Film4
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/film4.uk.m3u8
-#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="fx.movie.channel.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/fx.movie.channel.us.png",FX Movie Channel
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fx.movie.channel.us.m3u8
-#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="fx.networks.east.coast.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/fx.networks.east.coast.us.png",FX Networks (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fx.networks.east.coast.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="hallmark.channel.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.channel.eastern.us.png",Hallmark Channel (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.channel.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="hallmark.drama.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.drama.us.png",Hallmark Drama US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.drama.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="hallmark.movies.mysteries.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png",Hallmark Movies Mysteries US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.eastern.us.png",HBO (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="hbo.west.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.west.us.png",HBO (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 tvg-id="hbo.pacific.us" tvg-name="hbo.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.pacific.us.png",HBO (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.pacific.us.m3u8
-#EXTINF:-1 tvg-id="hbo.ca" tvg-name="hbo.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.ca.png",HBO 1 CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 tvg-id="hbo.2.eastern.ca" tvg-name="hbo.2.eastern.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.eastern.ca.png",HBO 2 (East) CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.eastern.ca.m3u8
-#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png",HBO 2 (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.2.pacific.us" tvg-name="hbo.2.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.pacific.us.png",HBO 2 (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.pacific.us.m3u8
-#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="hbo.comedy.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.comedy.east.us.png",HBO Comedy (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.family.eastern.us.png",HBO Family (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.signature.hbo.3.eastern.us" tvg-name="hbo.signature.hbo.3.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png",HBO Signature (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="hbo.zone.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.zone.east.us.png",HBO Zone (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="hgtv.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hgtv.usa.eastern.us.png",HGTV (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hgtv.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hgtv.usa.pacific.us" tvg-name="hgtv.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hgtv.usa.pacific.us.png",HGTV (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hgtv.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="independent.film.channel.us.us" tvg-name="independent.film.channel.us.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/independent.film.channel.us.us.png",IFC
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/independent.film.channel.us.us.m3u8
-#EXTINF:-1 tvg-id="mgm.usa.us" tvg-name="mgm.usa.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/mgm.usa.us.png",MGM US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mgm.usa.us.m3u8
-#EXTINF:-1 tvg-id="moremax.eastern.us" tvg-name="moremax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/moremax.eastern.us.png",MoreMax (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="moviemax.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/moviemax.us.png",MovieMax
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/moviemax.us.m3u8
-#EXTINF:-1 tvg-id="mtv.live.us" tvg-name="mtv.live.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/mtv.live.us.png",Mtv Live US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.live.us.m3u8
-#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="outermax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/outermax.eastern.us.png",OuterMax
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="oprah.winfrey.network.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/oprah.winfrey.network.usa.eastern.us.png",OWN (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/oprah.winfrey.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="paramount.network.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",Paramount Network (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="paramount.network.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.canada.ca.png",Paramount Network CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.canada.ca.m3u8
-#EXTINF:-1 tvg-id="paramount.network.uk" tvg-name="paramount.network.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.uk.png",Paramount Network UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.uk.m3u8
-#EXTINF:-1 tvg-id="revolt.tv.us" tvg-name="revolt.tv.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/revolt.tv.us.png",Revolt
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/revolt.tv.us.m3u8
-#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="showcase.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showcase.canada.ca.png",Showcase CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showcase.canada.ca.m3u8
-#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.eastern.us.png",Showtime (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.west.us.png",Showtime (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 tvg-id="showtime.pacfic.us" tvg-name="showtime.pacfic.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.pacfic.us.png",Showtime (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.pacfic.us.m3u8
-#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png",Showtime 2 (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.2.pacific.us" tvg-name="showtime.2.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.2.pacific.us.png",Showtime 2 (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.2.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.extreme.eastern.us.png",Showtime Extreme (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.extreme.pacific.us" tvg-name="showtime.extreme.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.extreme.pacific.us.png",Showtime Extreme (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.extreme.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.family.zone.eastern.us.png",Showtime Family Zone (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.family.zone.pacific.us" tvg-name="showtime.family.zone.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.family.zone.pacific.us.png",Showtime Family Zone (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.family.zone.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.next.pacific.us" tvg-name="showtime.next.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.next.pacific.us.png",Showtime Next (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.next.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="showtime.next.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.next.eastern.us.png",Showtime Next US (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="showtime.showcase.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.showcase.eastern.us.png",Showtime Showcase (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.showcase.pacific.us" tvg-name="showtime.showcase.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.showcase.pacific.us.png",Showtime Showcase (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.showcase.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="showtime.women.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.women.eastern.us.png",Showtime Woman US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.women.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.women.pacific.us" tvg-name="showtime.women.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.women.pacific.us.png",Showtime Women (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.women.pacific.us.m3u8
-#EXTINF:-1 tvg-id="shoxbet.eastern.us" tvg-name="shoxbet.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/shoxbet.eastern.us.png",SHOXBET (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/shoxbet.eastern.us.m3u8
-#EXTINF:-1 tvg-id="shoxbet.pacific.us" tvg-name="shoxbet.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/shoxbet.pacific.us.png",SHOXBET (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/shoxbet.pacific.us.m3u8
-#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="sky.atlantic.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.atlantic.uk.png",Sky Atlantic UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.atlantic.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.action.uk.png",Sky Cinema Action
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.action.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.comedy.uk.png",Sky Cinema Comedy
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.comedy.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.drama.uk.png",Sky Cinema Drama
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.drama.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.family.uk.png",Sky Cinema Family
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.family.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.greats.uk.png",Sky Cinema Greats UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.greats.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.hits.uk.png",Sky Cinema Hits
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.hits.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.premiere.uk.png",Sky Cinema Premiere
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.premiere.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.thriller.uk.png",Sky Cinema Thriller
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.thriller.uk.m3u8
-#EXTINF:-1 tvg-id="sky.one.uk" tvg-name="sky.one.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.one.uk.png",Sky One
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.one.uk.m3u8
-#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.pacific.us" tvg-name="starz.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.pacific.us.png",Starz (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.cinema.eastern.us.png",Starz Cinema (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.cinema.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.cinema.pacific.us" tvg-name="starz.cinema.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.cinema.pacific.us.png",Starz Cinema (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.cinema.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.comedy.eastern.us.png",Starz Comedy (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.comedy.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.comedy.pacific.us" tvg-name="starz.comedy.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.comedy.pacific.us.png",Starz Comedy (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.comedy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.edge.eastern.us.png",Starz Edge (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.edge.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.edge.pacific.us" tvg-name="starz.edge.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.edge.pacific.us.png",Starz Edge (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.edge.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",Starz Encore (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.pacific.us" tvg-name="starz.encore.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.pacific.us.png",Starz Encore (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="starz.encore.action.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.action.eastern.us.png",Starz Encore Action (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.action.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.action.pacific.us" tvg-name="starz.encore.action.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.action.pacific.us.png",Starz Encore Action (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.action.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="starz.encore.black.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.black.eastern.us.png",Starz Encore Black (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.black.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.black.pacific.us" tvg-name="starz.encore.black.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.black.pacific.us.png",Starz Encore Black (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.black.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.classic.eastern.us" tvg-name="starz.encore.classic.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.classic.eastern.us.png",Starz Encore Classic (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.classic.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.classic.pacific.us" tvg-name="starz.encore.classic.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.classic.pacific.us.png",Starz Encore Classic (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.classic.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="starz.encore.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.family.eastern.us.png",Starz Encore Family (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.family.pacific.us" tvg-name="starz.encore.family.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.family.pacific.us.png",Starz Encore Family (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.family.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.suspense.pacific.us" tvg-name="starz.encore.suspense.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.suspense.pacific.us.png",Starz Encore Suspense (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.suspense.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.westerns.pacific.us" tvg-name="starz.encore.westerns.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.westerns.pacific.us.png",Starz Encore Westerns (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.westerns.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.in.black.eastern.us" tvg-name="starz.in.black.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.in.black.eastern.us.png",Starz In Black (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.in.black.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.in.black.pacific.us" tvg-name="starz.in.black.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.in.black.pacific.us.png",Starz In Black (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.in.black.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.kids.family.pacific.us" tvg-name="starz.kids.family.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.kids.family.pacific.us.png",Starz Kids (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.kids.family.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.kids.family.eastern.us.png",Starz Kids Family (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.kids.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="starz.encore.suspense.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.suspense.eastern.us.png",Starz Suspense (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.suspense.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.westerns.eastern.us" tvg-name="starz.encore.westerns.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.westerns.eastern.us.png",Starz Westerns US (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.westerns.eastern.us.m3u8
-#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.eastern.us.m3u8
-#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="syfy.uk" tvg-name="syfy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.uk.png",SYFY UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.uk.m3u8
-#EXTINF:-1 tvg-id="tcm.uk" tvg-name="tcm.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/tcm.uk.png",TCM UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tcm.uk.m3u8
-#EXTINF:-1 tvg-id="thrillermax.east.us" tvg-name="thrillermax.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/thrillermax.east.us.png",ThrillerMax (East)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/thrillermax.east.us.m3u8
-#EXTINF:-1 tvg-id="trutv.usa.east.us" tvg-name="trutv.usa.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/trutv.usa.east.us.png",truTV US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/trutv.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="turner.classic.movies.usa.us" tvg-name="turner.classic.movies.usa.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/turner.classic.movies.usa.us.png",Turner Classic Movies US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/turner.classic.movies.usa.us.m3u8
-#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby First US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/baby.first.tv.us.m3u8
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.us.png",Boomerang
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/boomerang.us.m3u8
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="boomerang.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.uk.png",Boomerang UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/boomerang.uk.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.usa.pacific.us" tvg-name="cartoon.network.usa.pacific.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.pacific.us.png",Cartoon Network (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.uk" tvg-name="cartoon.network.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.uk.png",Cartoon Network UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.uk.m3u8
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="cartoonito.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoonito.uk.png",Cartoonito UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoonito.uk.m3u8
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="cbbc.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbbc.uk.png",CBBC
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbbc.uk.m3u8
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="cbeebies.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbeebies.uk.png",Cbeebies UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbeebies.uk.m3u8
-#EXTINF:-1 tvg-id="disney.channel.canada.east.ca" tvg-name="disney.channel.canada.east.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.channel.canada.east.ca.png",Disney Channel (East) CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.channel.canada.east.ca.m3u8
-#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.eastern.us.m3u8
-#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="disney.junior.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.usa.east.us.png",Disney Jr (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.junior.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="disney.junior.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.canada.ca.png",Disney Junior CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.junior.canada.ca.m3u8
-#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="disney.xd.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.usa.eastern.us.png",Disney Xd (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.xd.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="disney.xd.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.canada.ca.png",Disney XD CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.xd.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nick.jr.us.png",Nick Jr US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nick.jr.us.m3u8
-#EXTINF:-1 tvg-id="nick.jr.too.uk" tvg-name="nick.jr.too.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nick.jr.too.uk.png",Nick Jr.Too UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nick.jr.too.uk.m3u8
-#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="nicktoons.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nicktoons.uk.png",Nick Toons UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nicktoons.uk.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.usa.east.us.png",Nickelodeon (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.usa.pacific.us" tvg-name="nickelodeon.usa.pacific.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.usa.pacific.us.png",Nickelodeon (West) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="nickelodeon.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.canada.ca.png",Nickelodeon CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.canada.ca.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="nickelodeon.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.uk.png",Nickelodeon UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.uk.m3u8
-#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickmusic.us.png",NickMusic US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickmusic.us.m3u8
-#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nicktoons.east.us.png",Nicktoons US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nicktoons.east.us.m3u8
-#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="pbs.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pbs.kids.us.png",PBS Kids US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pbs.kids.us.m3u8
-#EXTINF:-1 tvg-id="pop.max.uk" tvg-name="pop.max.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.max.uk.png",POP Max UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pop.max.uk.m3u8
-#EXTINF:-1 tvg-id="pop.uk" tvg-name="pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.uk.png",POP UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pop.uk.m3u8
-#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="teennick.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/teennick.eastern.us.png",TeenNick (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/teennick.eastern.us.m3u8
-#EXTINF:-1 tvg-id="tiny.pop.uk" tvg-name="tiny.pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/tiny.pop.uk.png",Tiny Pop UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tiny.pop.uk.m3u8
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="treehouse.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/treehouse.ca.png",Treehouse CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/treehouse.ca.m3u8
-#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="universal.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/universal.kids.us.png",Universal Kids US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/universal.kids.us.m3u8
-#EXTINF:-1 tvg-id="4music.uk" tvg-name="4music.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/4music.uk.png",4Music
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/4music.uk.m3u8
-#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="box.hits.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/box.hits.uk.png",Box Hits
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/box.hits.uk.m3u8
-#EXTINF:-1 tvg-id="clubland.uk" tvg-name="clubland.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/clubland.uk.png",Clubland TV UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/clubland.uk.m3u8
-#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kerrang.uk.m3u8
-#EXTINF:-1 tvg-id="kiss.uk" tvg-name="kiss.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/kiss.uk.png",KISS
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kiss.uk.m3u8
-#EXTINF:-1 tvg-id="magic.uk" tvg-name="magic.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/magic.uk.png",Magic
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/magic.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.uk.png",MTV
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.usa.eastern.us.png",MTV (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="mtv.2.canada.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.2.canada.ca.png",MTV 2 CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.2.canada.ca.m3u8
-#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.2.east.us.png",MTV 2 US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.2.east.us.m3u8
-#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.base.uk.png",MTV BASE
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.base.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="mtv.canada.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.canada.ca.png",MTV CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.canada.ca.m3u8
-#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.classic.uk.png",MTV Classic
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.classic.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.classic.east.us.png",MTV Classic US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.classic.east.us.m3u8
-#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.hits.uk.png",MTV HITS
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.hits.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.live.uk" tvg-name="mtv.live.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.live.uk.png",MTV Live
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.live.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.music.uk.png",MTV Music UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.music.uk.m3u8
-#EXTINF:-1 tvg-id="mtv.usa.pacific.us" tvg-name="mtv.usa.pacific.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.usa.pacific.us.png",MTV USA (West)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="much.music.ca" tvg-name="much.music.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/much.music.ca.png",Much Music CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/much.music.ca.m3u8
-#EXTINF:-1 tvg-id="music.choice.us" tvg-name="music.choice.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.us.png",Music Choice
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.us.m3u8
-#EXTINF:-1 tvg-id="music.choice.gospel" tvg-name="music.choice.gospel" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.gospel.png",Music Choice Gospel
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.gospel.m3u8
-#EXTINF:-1 tvg-id="music.choice.hiphop" tvg-name="music.choice.hiphop" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.hiphop.png",Music Choice HipHop
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.hiphop.m3u8
-#EXTINF:-1 tvg-id="music.choice.love" tvg-name="music.choice.love" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.love.png",Music Choice Love
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.love.m3u8
-#EXTINF:-1 tvg-id="music.choice.metal" tvg-name="music.choice.metal" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.metal.png",Music Choice Metal
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.metal.m3u8
-#EXTINF:-1 tvg-id="music.choice.rb.classic" tvg-name="music.choice.rb.classic" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rb.classic.png",Music Choice R&B Classic
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rb.classic.m3u8
-#EXTINF:-1 tvg-id="music.choice.rb.soul" tvg-name="music.choice.rb.soul" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rb.soul.png",Music Choice R&B Soul
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rb.soul.m3u8
-#EXTINF:-1 tvg-id="music.choice.2k" tvg-name="music.choice.2k" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.2k.png",Music Choice Rap 2000
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.2k.m3u8
-#EXTINF:-1 tvg-id="music.choice.rock" tvg-name="music.choice.rock" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rock.png",Music Choice Rock
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rock.m3u8
-#EXTINF:-1 tvg-id="music.choice.throwback" tvg-name="music.choice.throwback" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.throwback.png",Music Choice Throwback
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.throwback.m3u8
-#EXTINF:-1 tvg-id="music.choice.tropical" tvg-name="music.choice.tropical" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.tropical.png",Music Choice Tropical
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.tropical.m3u8
-#EXTINF:-1 tvg-id="now80.uk" tvg-name="now80.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/now80.uk.png",Now 80s
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/now80.uk.m3u8
-#EXTINF:-1 tvg-id="now90.uk" tvg-name="now90.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/now90.uk.png",Now 90s
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/now90.uk.m3u8
-#EXTINF:-1 tvg-id="stingray.classic.rock.us" tvg-name="stingray.classic.rock.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.classic.rock.us.png",Stingray Classic Rock
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.classic.rock.us.m3u8
-#EXTINF:-1 tvg-id="stingray.flashback.70s.us" tvg-name="stingray.flashback.70s.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.flashback.70s.us.png",Stingray Flashback 70s
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.flashback.70s.us.m3u8
-#EXTINF:-1 tvg-id="stingray.greatest.hits.us" tvg-name="stingray.greatest.hits.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.greatest.hits.us.png",Stingray Greatest Hits
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.greatest.hits.us.m3u8
-#EXTINF:-1 tvg-id="stingray.hip.hop.us" tvg-name="stingray.hip.hop.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hip.hop.us.png",Stingray Hip Hop
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hip.hop.us.m3u8
-#EXTINF:-1 tvg-id="stingray.hit.list.us" tvg-name="stingray.hit.list.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hit.list.us.png",Stingray Hit List
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hit.list.us.m3u8
-#EXTINF:-1 tvg-id="stingray.hot.country.us" tvg-name="stingray.hot.country.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hot.country.us.png",Stingray Hot Country
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hot.country.us.m3u8
-#EXTINF:-1 tvg-id="stingray.karaoke.on.demand.1.us" tvg-name="stingray.karaoke.on.demand.1.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.karaoke.on.demand.1.us.png",Stingray Karaoke
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.karaoke.on.demand.1.us.m3u8
-#EXTINF:-1 tvg-id="stingray.latido.us" tvg-name="stingray.latido.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.latido.us.png",Stingray Latido
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.latido.us.m3u8
-#EXTINF:-1 tvg-id="stingray.latin.pop.us" tvg-name="stingray.latin.pop.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.latin.pop.us.png",Stingray Latin Pop
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.latin.pop.us.m3u8
-#EXTINF:-1 tvg-id="stingray.nature.escape.us" tvg-name="stingray.nature.escape.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.nature.escape.us.png",Stingray Nature Escape US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.nature.escape.us.m3u8
-#EXTINF:-1 tvg-id="stingray.pop.adult.us" tvg-name="stingray.pop.adult.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.pop.adult.us.png",Stingray Pop Adult
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.pop.adult.us.m3u8
-#EXTINF:-1 tvg-id="stingray.quello.us" tvg-name="stingray.quello.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.quello.us.png",Stingray Quello
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.quello.us.m3u8
-#EXTINF:-1 tvg-id="stingray.remember.the.80s.us" tvg-name="stingray.remember.the.80s.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.remember.the.80s.us.png",Stingray Remember The 80s
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.remember.the.80s.us.m3u8
-#EXTINF:-1 tvg-id="stingray.retro.ca" tvg-name="stingray.retro.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.retro.ca.png",Stingray Retro
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.retro.ca.m3u8
-#EXTINF:-1 tvg-id="stingray.rock.alternative.us" tvg-name="stingray.rock.alternative.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.rock.alternative.us.png",Stingray Rock Alternative
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.rock.alternative.us.m3u8
-#EXTINF:-1 tvg-id="stingray.soul.storm.us" tvg-name="stingray.soul.storm.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.soul.storm.us.png",Stingray Soul Storm
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.soul.storm.us.m3u8
-#EXTINF:-1 tvg-id="stingray.urban.beat.us" tvg-name="stingray.urban.beat.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.urban.beat.us.png",Stingray Urban Beat
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.urban.beat.us.m3u8
-#EXTINF:-1 tvg-id="stingray.all.day.party.ca" tvg-name="stingray.all.day.party.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.all.day.party.ca.png",Stingray: All Day Party!
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.all.day.party.ca.m3u8
-#EXTINF:-1 tvg-id="stingray.nostalgie.ca" tvg-name="stingray.nostalgie.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.nostalgie.ca.png",Stingray: Nostalgie
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.nostalgie.ca.m3u8
-#EXTINF:-1 tvg-id="stingray.smooth.jazz.ca" tvg-name="stingray.smooth.jazz.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.smooth.jazz.ca.png",Stingray: Smooth Jazz
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.smooth.jazz.ca.m3u8
-#EXTINF:-1 tvg-id="the.box.uk" tvg-name="the.box.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/the.box.uk.png",The Box
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.box.uk.m3u8
-#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/vh1.eastern.us.png",VH1 (East) US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/vh1.eastern.us.m3u8
-#EXTINF:-1 tvg-id="coronavirus.us" tvg-name="coronavirus.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/coronavirus.us.png",*Coronavirus Pandemic*
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/coronavirus.us.m3u8
-#EXTINF:-1 tvg-id="abc.news.live.us" tvg-name="abc.news.live.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/abc.news.live.us.png",ABC News Live
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/abc.news.live.us.m3u8
-#EXTINF:-1 tvg-id="accuweather.us" tvg-name="accuweather.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/accuweather.us.png",AccuWeather
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/accuweather.us.m3u8
-#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
-#EXTINF:-1 tvg-id="bbc.world.north.america.ca" tvg-name="bbc.world.north.america.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.world.north.america.ca.png",BBC World CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.world.north.america.ca.m3u8
-#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.world.north.america.us.m3u8
-#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="bloomberg.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bloomberg.uk.png",Bloomberg UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bloomberg.uk.m3u8
-#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="bloomberg.tv.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bloomberg.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="cheddar.news.us" tvg-name="cheddar.news.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cheddar.news.us.png",Cheddar News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cheddar.news.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="cnbc.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.uk.png",CNBC UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.uk.m3u8
-#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="cnn.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.ca.png",CNN CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.ca.m3u8
-#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="cnn.international.north.america.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.international.north.america.us.png",CNN International North America
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.international.north.america.us.m3u8
-#EXTINF:-1 tvg-id="cnn.uk" tvg-name="cnn.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.uk.png",CNN UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.uk.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-name="euronews.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/euronews.uk.png",EuroNews UK
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/euronews.uk.m3u8
-#EXTINF:-1 tvg-id="gb.news.uk" tvg-name="gb.news.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/gb.news.uk.png",GB News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/gb.news.uk.m3u8
-#EXTINF:-1 tvg-id="i24.us" tvg-name="i24.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/i24.us.png",i24 news
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/i24.us.m3u8
-#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/msnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="nbc.news.now.us" tvg-name="nbc.news.now.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/nbc.news.now.us.png",NBC News Now (US)
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.news.now.us.m3u8
-#EXTINF:-1 tvg-id="newsy.us" tvg-name="newsy.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/newsy.us.png",Newsy
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/newsy.us.m3u8
-#EXTINF:-1 tvg-id="rt.russia.today.us" tvg-name="rt.russia.today.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/rt.russia.today.us.png",RT US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/rt.russia.today.us.m3u8
-#EXTINF:-1 tvg-id="sky.news.uk" tvg-name="sky.news.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.news.uk.m3u8
-#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.weather.channel.us.m3u8
-#EXTINF:-1 tvg-id="weather.network.ca" tvg-name="weather.network.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/weather.network.ca.png",Weather Network CA
-https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/weather.network.ca.m3u8
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network USA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbs.sports.network.usa.us.m3u8
 #EXTINF:-1 tvg-id="ad.sports.1.ae" tvg-name="ad.sports.1.ae" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/ad.sports.1.ae.png",Abu DHabi Sports 1
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ad.sports.1.ae.m3u8
 #EXTINF:-1 tvg-id="ad.sports.2.ae" tvg-name="ad.sports.2.ae" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/ad.sports.2.ae.png",Abu DHabi Sports 2
@@ -1827,6 +1315,522 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ufc.fightpass.8
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ufc.fightpass.9.us.m3u8
 #EXTINF:-1 tvg-id="ufc.fightpass.10.us" tvg-name="ufc.fightpass.10.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.10.us.png",UFC Fight Pass 10
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ufc.fightpass.10.us.m3u8
+#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.us.east.us.m3u8
+#EXTINF:-1 tvg-id="animal.planet.uk" tvg-name="animal.planet.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/animal.planet.uk.png",Animal Planet UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:-1 tvg-id="cooking.channel.canada.ca" tvg-name="cooking.channel.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/cooking.channel.canada.ca.png",Cooking Channel CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cooking.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.can.ca" tvg-name="discovery.channel.can.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.channel.can.ca.png",Discovery Channel CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.channel.can.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.family.channel.us.png",Discovery Family US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.history.uk" tvg-name="discovery.history.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.history.uk.png",Discovery History UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.science.canada.ca" tvg-name="discovery.science.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.science.canada.ca.png",Discovery Science CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.canada.ca.m3u8
+#EXTINF:-1 tvg-id="discovery.science.uk" tvg-name="discovery.science.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.science.uk.png",Discovery Science UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.uk" tvg-name="discovery.turbo.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.turbo.uk.png",Discovery Turbo UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.turbo.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.uk" tvg-name="discovery.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.uk.png",Discovery UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="discovery.velocity.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/discovery.velocity.ca.png",Discovery Velocity CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/discovery.velocity.ca.m3u8
+#EXTINF:-1 tvg-id="do.it.yourself.network.canada.ca" tvg-name="do.it.yourself.network.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/do.it.yourself.network.canada.ca.png",DIY Network CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/do.it.yourself.network.canada.ca.m3u8
+#EXTINF:-1 tvg-id="do.it.yourself.network.usa.east.us" tvg-name="do.it.yourself.network.usa.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/do.it.yourself.network.usa.east.us.png",Do It Yourself Network (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="food.network.usa.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",Food Network (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/food.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="food.network.uk" tvg-name="food.network.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/food.network.uk.png",Food Network UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/food.network.uk.m3u8
+#EXTINF:-1 tvg-id="history.2.canada.ca" tvg-name="history.2.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.2.canada.ca.png",H2 CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.2.canada.ca.m3u8
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="history2.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history2.uk.png",H2 UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history2.uk.m3u8
+#EXTINF:-1 tvg-id="history.canada.east.ca" tvg-name="history.canada.east.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.canada.east.ca.png",History CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="history.channel.us.east.us" tvg-name="history.channel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.channel.us.east.us.m3u8
+#EXTINF:-1 tvg-id="investigation.discovery.canada.ca" tvg-name="investigation.discovery.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/investigation.discovery.canada.ca.png",Investigation Discovery CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/investigation.discovery.canada.ca.m3u8
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="investigation.discovery.usa.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/investigation.discovery.usa.eastern.us.png",Investigation Discovery US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nasa.4k.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.canada.ca" tvg-name="national.geographic.wild.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.wild.canada.ca.png",Nat Geo Wild CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.wild.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nat.geo.wild.uk" tvg-name="nat.geo.wild.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nat.geo.wild.uk.png",Nat Geo Wild UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="national.geographic.canada.ca" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.canada.ca.png",National Geographic CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nat.geo.uk" tvg-name="nat.geo.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/nat.geo.uk.png",National Geographic UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.us.eastern.us.png",National Geographic US (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/national.geographic.wild.us.png",National Geographic Wild
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 tvg-id="rt.documentary.us" tvg-name="rt.documentary.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/rt.documentary.us.png",Rt Documentary
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/rt.documentary.us.m3u8
+#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/science.us.png",Science US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/science.us.m3u8
+#EXTINF:-1 tvg-id="sky.documntrs.uk" tvg-name="sky.documntrs.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/sky.documntrs.uk.png",Sky Documentaries
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.documntrs.uk.m3u8
+#EXTINF:-1 tvg-id="history.uk" tvg-name="history.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.uk.png",Sky History UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/history.uk.m3u8
+#EXTINF:-1 tvg-id="sundancetv.usa.east.us" tvg-name="sundancetv.usa.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/sundancetv.usa.east.us.png",SundanceTV (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sundancetv.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.channel.uk.m3u8
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/travel.us.east.us.m3u8
+#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="tv.land.eastern.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/tv.land.eastern.us.png",Tv Land US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tv.land.eastern.us.m3u8
+#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png",5 Star Max (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/ae.us.eastern.us.png",A&E (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ae.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="actionmax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/actionmax.eastern.us.png",ActionMax (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/adult.swim.east.us.m3u8
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="bravo.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/bravo.usa.eastern.us.png",Bravo (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bravo.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="bravo.usa.pacific.us" tvg-name="bravo.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/bravo.usa.pacific.us.png",Bravo (West)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bravo.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="cinemax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/cinemax.eastern.us.png",Cinemax (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cinemax.pacific.us" tvg-name="cinemax.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/cinemax.pacific.us.png",Cinemax (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cinemax.pacific.us.m3u8
+#EXTINF:-1 tvg-id="comedy.central.uk" tvg-name="comedy.central.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comedy.central.uk.png",Comedy Central UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.uk.m3u8
+#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1 tvg-id="comet.tv.us" tvg-name="comet.tv.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/comet.tv.us.png",Comet TV
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/comet.tv.us.m3u8
+#EXTINF:-1 tvg-id="crime.investigation.ca" tvg-name="crime.investigation.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/crime.investigation.ca.png",Crime & Investigation CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/crime.investigation.ca.m3u8
+#EXTINF:-1 tvg-id="e.canada.ca" tvg-name="e.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.canada.ca.png",E! CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.canada.ca.m3u8
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="e.entertainment.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.entertainment.usa.eastern.us.png",E! Entertainment (Eest)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.entertainment.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="e.entertainment.usa.pacific.us" tvg-name="e.entertainment.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/e.entertainment.usa.pacific.us.png",E! Entertainment (West)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/e.entertainment.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="ee.uk" tvg-name="ee.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/ee.uk.png",E! UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/ee.uk.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="film4.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/film4.uk.png",Film4
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/film4.uk.m3u8
+#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="fx.movie.channel.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/fx.movie.channel.us.png",FX Movie Channel
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fx.movie.channel.us.m3u8
+#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="fx.networks.east.coast.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/fx.networks.east.coast.us.png",FX Networks (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/fx.networks.east.coast.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="hallmark.channel.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.channel.eastern.us.png",Hallmark Channel (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="hallmark.drama.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.drama.us.png",Hallmark Drama US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="hallmark.movies.mysteries.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png",Hallmark Movies Mysteries US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.eastern.us.png",HBO (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="hbo.west.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.west.us.png",HBO (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 tvg-id="hbo.pacific.us" tvg-name="hbo.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.pacific.us.png",HBO (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.pacific.us.m3u8
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="hbo.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.ca.png",HBO 1 CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 tvg-id="hbo.2.eastern.ca" tvg-name="hbo.2.eastern.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.eastern.ca.png",HBO 2 (East) CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.eastern.ca.m3u8
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png",HBO 2 (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.2.pacific.us" tvg-name="hbo.2.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.2.pacific.us.png",HBO 2 (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.2.pacific.us.m3u8
+#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="hbo.comedy.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.comedy.east.us.png",HBO Comedy (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.family.eastern.us.png",HBO Family (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.hbo.3.eastern.us" tvg-name="hbo.signature.hbo.3.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png",HBO Signature (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="hbo.zone.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hbo.zone.east.us.png",HBO Zone (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="hgtv.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hgtv.usa.eastern.us.png",HGTV (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hgtv.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hgtv.usa.pacific.us" tvg-name="hgtv.usa.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hgtv.usa.pacific.us.png",HGTV (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/hgtv.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="independent.film.channel.us.us" tvg-name="independent.film.channel.us.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/independent.film.channel.us.us.png",IFC
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/independent.film.channel.us.us.m3u8
+#EXTINF:-1 tvg-id="mgm.usa.us" tvg-name="mgm.usa.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/mgm.usa.us.png",MGM US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mgm.usa.us.m3u8
+#EXTINF:-1 tvg-id="moremax.eastern.us" tvg-name="moremax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/moremax.eastern.us.png",MoreMax (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="moviemax.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/moviemax.us.png",MovieMax
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 tvg-id="mtv.live.us" tvg-name="mtv.live.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/mtv.live.us.png",Mtv Live US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.live.us.m3u8
+#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="outermax.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/outermax.eastern.us.png",OuterMax
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/outermax.eastern.us.m3u8
+#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="oprah.winfrey.network.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/oprah.winfrey.network.usa.eastern.us.png",OWN (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/oprah.winfrey.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="paramount.network.usa.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",Paramount Network (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="paramount.network.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.canada.ca.png",Paramount Network CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.canada.ca.m3u8
+#EXTINF:-1 tvg-id="paramount.network.uk" tvg-name="paramount.network.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/paramount.network.uk.png",Paramount Network UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/paramount.network.uk.m3u8
+#EXTINF:-1 tvg-id="revolt.tv.us" tvg-name="revolt.tv.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/revolt.tv.us.png",Revolt
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/revolt.tv.us.m3u8
+#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="showcase.canada.ca" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showcase.canada.ca.png",Showcase CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showcase.canada.ca.m3u8
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.eastern.us.png",Showtime (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.west.us.png",Showtime (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 tvg-id="showtime.pacfic.us" tvg-name="showtime.pacfic.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.pacfic.us.png",Showtime (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.pacfic.us.m3u8
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png",Showtime 2 (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.2.pacific.us" tvg-name="showtime.2.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.2.pacific.us.png",Showtime 2 (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.2.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.extreme.eastern.us.png",Showtime Extreme (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.pacific.us" tvg-name="showtime.extreme.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.extreme.pacific.us.png",Showtime Extreme (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.extreme.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.family.zone.eastern.us.png",Showtime Family Zone (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.pacific.us" tvg-name="showtime.family.zone.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.family.zone.pacific.us.png",Showtime Family Zone (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.family.zone.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.next.pacific.us" tvg-name="showtime.next.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.next.pacific.us.png",Showtime Next (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.next.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="showtime.next.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.next.eastern.us.png",Showtime Next US (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="showtime.showcase.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.showcase.eastern.us.png",Showtime Showcase (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.pacific.us" tvg-name="showtime.showcase.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.showcase.pacific.us.png",Showtime Showcase (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.showcase.pacific.us.m3u8
+#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="showtime.women.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.women.eastern.us.png",Showtime Woman US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.women.pacific.us" tvg-name="showtime.women.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/showtime.women.pacific.us.png",Showtime Women (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/showtime.women.pacific.us.m3u8
+#EXTINF:-1 tvg-id="shoxbet.eastern.us" tvg-name="shoxbet.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/shoxbet.eastern.us.png",SHOXBET (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/shoxbet.eastern.us.m3u8
+#EXTINF:-1 tvg-id="shoxbet.pacific.us" tvg-name="shoxbet.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/shoxbet.pacific.us.png",SHOXBET (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/shoxbet.pacific.us.m3u8
+#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="sky.atlantic.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.atlantic.uk.png",Sky Atlantic UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.atlantic.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.action.uk.png",Sky Cinema Action
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.comedy.uk.png",Sky Cinema Comedy
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.drama.uk.png",Sky Cinema Drama
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.family.uk.png",Sky Cinema Family
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.greats.uk.png",Sky Cinema Greats UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.hits.uk.png",Sky Cinema Hits
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.hits.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.premiere.uk.png",Sky Cinema Premiere
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.thriller.uk.png",Sky Cinema Thriller
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.cinema.thriller.uk.m3u8
+#EXTINF:-1 tvg-id="sky.one.uk" tvg-name="sky.one.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.one.uk.png",Sky One
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.one.uk.m3u8
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.pacific.us" tvg-name="starz.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.pacific.us.png",Starz (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.cinema.eastern.us.png",Starz Cinema (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.cinema.pacific.us" tvg-name="starz.cinema.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.cinema.pacific.us.png",Starz Cinema (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.cinema.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.comedy.eastern.us.png",Starz Comedy (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.comedy.pacific.us" tvg-name="starz.comedy.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.comedy.pacific.us.png",Starz Comedy (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.comedy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.edge.eastern.us.png",Starz Edge (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.edge.pacific.us" tvg-name="starz.edge.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.edge.pacific.us.png",Starz Edge (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.edge.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",Starz Encore (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.pacific.us" tvg-name="starz.encore.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.pacific.us.png",Starz Encore (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="starz.encore.action.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.action.eastern.us.png",Starz Encore Action (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.action.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.action.pacific.us" tvg-name="starz.encore.action.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.action.pacific.us.png",Starz Encore Action (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.action.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="starz.encore.black.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.black.eastern.us.png",Starz Encore Black (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.black.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.black.pacific.us" tvg-name="starz.encore.black.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.black.pacific.us.png",Starz Encore Black (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.black.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.classic.eastern.us" tvg-name="starz.encore.classic.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.classic.eastern.us.png",Starz Encore Classic (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.classic.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.classic.pacific.us" tvg-name="starz.encore.classic.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.classic.pacific.us.png",Starz Encore Classic (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.classic.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="starz.encore.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.family.eastern.us.png",Starz Encore Family (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.family.pacific.us" tvg-name="starz.encore.family.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.family.pacific.us.png",Starz Encore Family (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.family.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.suspense.pacific.us" tvg-name="starz.encore.suspense.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.suspense.pacific.us.png",Starz Encore Suspense (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.suspense.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.westerns.pacific.us" tvg-name="starz.encore.westerns.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.westerns.pacific.us.png",Starz Encore Westerns (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.westerns.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.in.black.eastern.us" tvg-name="starz.in.black.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.in.black.eastern.us.png",Starz In Black (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.in.black.pacific.us" tvg-name="starz.in.black.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.in.black.pacific.us.png",Starz In Black (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.in.black.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.kids.family.pacific.us" tvg-name="starz.kids.family.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.kids.family.pacific.us.png",Starz Kids (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.kids.family.pacific.us.m3u8
+#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.kids.family.eastern.us.png",Starz Kids Family (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.kids.family.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="starz.encore.suspense.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.suspense.eastern.us.png",Starz Suspense (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+#EXTINF:-1 tvg-id="starz.encore.westerns.eastern.us" tvg-name="starz.encore.westerns.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/starz.encore.westerns.eastern.us.png",Starz Westerns US (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/starz.encore.westerns.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="syfy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/syfy.uk.png",SYFY UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/syfy.uk.m3u8
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="tcm.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/tcm.uk.png",TCM UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tcm.uk.m3u8
+#EXTINF:-1 tvg-id="thrillermax.east.us" tvg-name="thrillermax.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/thrillermax.east.us.png",ThrillerMax (East)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1 tvg-id="trutv.usa.east.us" tvg-name="trutv.usa.east.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/trutv.usa.east.us.png",truTV US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/trutv.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="turner.classic.movies.usa.us" tvg-name="turner.classic.movies.usa.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/turner.classic.movies.usa.us.png",Turner Classic Movies US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/turner.classic.movies.usa.us.m3u8
+#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby First US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/baby.first.tv.us.m3u8
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.us.png",Boomerang
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/boomerang.us.m3u8
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="boomerang.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.uk.png",Boomerang UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/boomerang.uk.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.usa.pacific.us" tvg-name="cartoon.network.usa.pacific.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.pacific.us.png",Cartoon Network (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.uk" tvg-name="cartoon.network.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.uk.png",Cartoon Network UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoon.network.uk.m3u8
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="cartoonito.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoonito.uk.png",Cartoonito UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cartoonito.uk.m3u8
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="cbbc.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbbc.uk.png",CBBC
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbbc.uk.m3u8
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="cbeebies.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbeebies.uk.png",Cbeebies UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cbeebies.uk.m3u8
+#EXTINF:-1 tvg-id="disney.channel.canada.east.ca" tvg-name="disney.channel.canada.east.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.channel.canada.east.ca.png",Disney Channel (East) CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.channel.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.eastern.us.m3u8
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="disney.junior.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.usa.east.us.png",Disney Jr (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.junior.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="disney.junior.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.canada.ca.png",Disney Junior CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.junior.canada.ca.m3u8
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="disney.xd.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.usa.eastern.us.png",Disney Xd (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.xd.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="disney.xd.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.canada.ca.png",Disney XD CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/disney.xd.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nick.jr.us.png",Nick Jr US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nick.jr.us.m3u8
+#EXTINF:-1 tvg-id="nick.jr.too.uk" tvg-name="nick.jr.too.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nick.jr.too.uk.png",Nick Jr.Too UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nick.jr.too.uk.m3u8
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="nicktoons.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nicktoons.uk.png",Nick Toons UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nicktoons.uk.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.usa.east.us.png",Nickelodeon (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.usa.pacific.us" tvg-name="nickelodeon.usa.pacific.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.usa.pacific.us.png",Nickelodeon (West) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="nickelodeon.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.canada.ca.png",Nickelodeon CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="nickelodeon.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.uk.png",Nickelodeon UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickelodeon.uk.m3u8
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickmusic.us.png",NickMusic US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nickmusic.us.m3u8
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nicktoons.east.us.png",Nicktoons US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nicktoons.east.us.m3u8
+#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="pbs.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pbs.kids.us.png",PBS Kids US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pbs.kids.us.m3u8
+#EXTINF:-1 tvg-id="pop.max.uk" tvg-name="pop.max.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.max.uk.png",POP Max UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pop.max.uk.m3u8
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.uk.png",POP UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/pop.uk.m3u8
+#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="teennick.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/teennick.eastern.us.png",TeenNick (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/teennick.eastern.us.m3u8
+#EXTINF:-1 tvg-id="tiny.pop.uk" tvg-name="tiny.pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/tiny.pop.uk.png",Tiny Pop UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tiny.pop.uk.m3u8
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="treehouse.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/treehouse.ca.png",Treehouse CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/treehouse.ca.m3u8
+#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="universal.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/universal.kids.us.png",Universal Kids US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/universal.kids.us.m3u8
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="4music.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/4music.uk.png",4Music
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/4music.uk.m3u8
+#EXTINF:-1 tvg-id="box.hits.uk" tvg-name="box.hits.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/box.hits.uk.png",Box Hits
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/box.hits.uk.m3u8
+#EXTINF:-1 tvg-id="clubland.uk" tvg-name="clubland.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/clubland.uk.png",Clubland TV UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/clubland.uk.m3u8
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="kerrang.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/kerrang.uk.png",Kerrang!
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kerrang.uk.m3u8
+#EXTINF:-1 tvg-id="kiss.uk" tvg-name="kiss.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/kiss.uk.png",KISS
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/kiss.uk.m3u8
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="magic.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/magic.uk.png",Magic
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/magic.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.uk.png",MTV
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.usa.eastern.us.png",MTV (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="mtv.2.canada.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.2.canada.ca.png",MTV 2 CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.2.canada.ca.m3u8
+#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.2.east.us.png",MTV 2 US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.2.east.us.m3u8
+#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.base.uk.png",MTV BASE
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.base.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.canada.ca" tvg-name="mtv.canada.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.canada.ca.png",MTV CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.canada.ca.m3u8
+#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.classic.uk.png",MTV Classic
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.classic.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.classic.east.us.png",MTV Classic US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.classic.east.us.m3u8
+#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.hits.uk.png",MTV HITS
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.hits.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.live.uk" tvg-name="mtv.live.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.live.uk.png",MTV Live
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.live.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.music.uk.png",MTV Music UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.music.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.usa.pacific.us" tvg-name="mtv.usa.pacific.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/mtv.usa.pacific.us.png",MTV USA (West)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mtv.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="much.music.ca" tvg-name="much.music.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/much.music.ca.png",Much Music CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/much.music.ca.m3u8
+#EXTINF:-1 tvg-id="music.choice.us" tvg-name="music.choice.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.us.png",Music Choice
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.us.m3u8
+#EXTINF:-1 tvg-id="music.choice.gospel" tvg-name="music.choice.gospel" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.gospel.png",Music Choice Gospel
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.gospel.m3u8
+#EXTINF:-1 tvg-id="music.choice.hiphop" tvg-name="music.choice.hiphop" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.hiphop.png",Music Choice HipHop
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.hiphop.m3u8
+#EXTINF:-1 tvg-id="music.choice.love" tvg-name="music.choice.love" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.love.png",Music Choice Love
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.love.m3u8
+#EXTINF:-1 tvg-id="music.choice.metal" tvg-name="music.choice.metal" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.metal.png",Music Choice Metal
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.metal.m3u8
+#EXTINF:-1 tvg-id="music.choice.rb.classic" tvg-name="music.choice.rb.classic" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rb.classic.png",Music Choice R&B Classic
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rb.classic.m3u8
+#EXTINF:-1 tvg-id="music.choice.rb.soul" tvg-name="music.choice.rb.soul" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rb.soul.png",Music Choice R&B Soul
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rb.soul.m3u8
+#EXTINF:-1 tvg-id="music.choice.2k" tvg-name="music.choice.2k" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.2k.png",Music Choice Rap 2000
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.2k.m3u8
+#EXTINF:-1 tvg-id="music.choice.rock" tvg-name="music.choice.rock" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.rock.png",Music Choice Rock
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.rock.m3u8
+#EXTINF:-1 tvg-id="music.choice.throwback" tvg-name="music.choice.throwback" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.throwback.png",Music Choice Throwback
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.throwback.m3u8
+#EXTINF:-1 tvg-id="music.choice.tropical" tvg-name="music.choice.tropical" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/music.choice.tropical.png",Music Choice Tropical
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/music.choice.tropical.m3u8
+#EXTINF:-1 tvg-id="now80.uk" tvg-name="now80.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/now80.uk.png",Now 80s
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/now80.uk.m3u8
+#EXTINF:-1 tvg-id="now90.uk" tvg-name="now90.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/now90.uk.png",Now 90s
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/now90.uk.m3u8
+#EXTINF:-1 tvg-id="stingray.classic.rock.us" tvg-name="stingray.classic.rock.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.classic.rock.us.png",Stingray Classic Rock
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.classic.rock.us.m3u8
+#EXTINF:-1 tvg-id="stingray.flashback.70s.us" tvg-name="stingray.flashback.70s.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.flashback.70s.us.png",Stingray Flashback 70s
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.flashback.70s.us.m3u8
+#EXTINF:-1 tvg-id="stingray.greatest.hits.us" tvg-name="stingray.greatest.hits.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.greatest.hits.us.png",Stingray Greatest Hits
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.greatest.hits.us.m3u8
+#EXTINF:-1 tvg-id="stingray.hip.hop.us" tvg-name="stingray.hip.hop.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hip.hop.us.png",Stingray Hip Hop
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hip.hop.us.m3u8
+#EXTINF:-1 tvg-id="stingray.hit.list.us" tvg-name="stingray.hit.list.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hit.list.us.png",Stingray Hit List
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hit.list.us.m3u8
+#EXTINF:-1 tvg-id="stingray.hot.country.us" tvg-name="stingray.hot.country.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.hot.country.us.png",Stingray Hot Country
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.hot.country.us.m3u8
+#EXTINF:-1 tvg-id="stingray.karaoke.on.demand.1.us" tvg-name="stingray.karaoke.on.demand.1.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.karaoke.on.demand.1.us.png",Stingray Karaoke
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.karaoke.on.demand.1.us.m3u8
+#EXTINF:-1 tvg-id="stingray.latido.us" tvg-name="stingray.latido.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.latido.us.png",Stingray Latido
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.latido.us.m3u8
+#EXTINF:-1 tvg-id="stingray.latin.pop.us" tvg-name="stingray.latin.pop.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.latin.pop.us.png",Stingray Latin Pop
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.latin.pop.us.m3u8
+#EXTINF:-1 tvg-id="stingray.nature.escape.us" tvg-name="stingray.nature.escape.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.nature.escape.us.png",Stingray Nature Escape US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.nature.escape.us.m3u8
+#EXTINF:-1 tvg-id="stingray.pop.adult.us" tvg-name="stingray.pop.adult.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.pop.adult.us.png",Stingray Pop Adult
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.pop.adult.us.m3u8
+#EXTINF:-1 tvg-id="stingray.quello.us" tvg-name="stingray.quello.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.quello.us.png",Stingray Quello
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.quello.us.m3u8
+#EXTINF:-1 tvg-id="stingray.remember.the.80s.us" tvg-name="stingray.remember.the.80s.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.remember.the.80s.us.png",Stingray Remember The 80s
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.remember.the.80s.us.m3u8
+#EXTINF:-1 tvg-id="stingray.retro.ca" tvg-name="stingray.retro.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.retro.ca.png",Stingray Retro
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.retro.ca.m3u8
+#EXTINF:-1 tvg-id="stingray.rock.alternative.us" tvg-name="stingray.rock.alternative.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.rock.alternative.us.png",Stingray Rock Alternative
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.rock.alternative.us.m3u8
+#EXTINF:-1 tvg-id="stingray.soul.storm.us" tvg-name="stingray.soul.storm.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.soul.storm.us.png",Stingray Soul Storm
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.soul.storm.us.m3u8
+#EXTINF:-1 tvg-id="stingray.urban.beat.us" tvg-name="stingray.urban.beat.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.urban.beat.us.png",Stingray Urban Beat
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.urban.beat.us.m3u8
+#EXTINF:-1 tvg-id="stingray.all.day.party.ca" tvg-name="stingray.all.day.party.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.all.day.party.ca.png",Stingray: All Day Party!
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.all.day.party.ca.m3u8
+#EXTINF:-1 tvg-id="stingray.nostalgie.ca" tvg-name="stingray.nostalgie.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.nostalgie.ca.png",Stingray: Nostalgie
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.nostalgie.ca.m3u8
+#EXTINF:-1 tvg-id="stingray.smooth.jazz.ca" tvg-name="stingray.smooth.jazz.ca" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/stingray.smooth.jazz.ca.png",Stingray: Smooth Jazz
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/stingray.smooth.jazz.ca.m3u8
+#EXTINF:-1 tvg-id="the.box.uk" tvg-name="the.box.uk" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/the.box.uk.png",The Box
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.box.uk.m3u8
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title="Music" tvg-logo="https://media.tv4.live/vh1.eastern.us.png",VH1 (East) US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/vh1.eastern.us.m3u8
+#EXTINF:-1 tvg-id="coronavirus.us" tvg-name="coronavirus.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/coronavirus.us.png",*Coronavirus Pandemic*
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/coronavirus.us.m3u8
+#EXTINF:-1 tvg-id="abc.news.live.us" tvg-name="abc.news.live.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/abc.news.live.us.png",ABC News Live
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/abc.news.live.us.m3u8
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="accuweather.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/accuweather.us.png",AccuWeather
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/accuweather.us.m3u8
+#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png",BBC News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="bbc.world.north.america.ca" tvg-name="bbc.world.north.america.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.world.north.america.ca.png",BBC World CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.world.north.america.ca.m3u8
+#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bbc.world.north.america.us.m3u8
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="bloomberg.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bloomberg.uk.png",Bloomberg UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="bloomberg.tv.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/bloomberg.tv.usa.us.m3u8
+#EXTINF:-1 tvg-id="cheddar.news.us" tvg-name="cheddar.news.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cheddar.news.us.png",Cheddar News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cheddar.news.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="cnbc.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.uk.png",CNBC UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.usa.us.m3u8
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnbc.world.us.m3u8
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="cnn.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.ca.png",CNN CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="cnn.international.north.america.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.international.north.america.us.png",CNN International North America
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.international.north.america.us.m3u8
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="cnn.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.uk.png",CNN UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.uk.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="euronews.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/euronews.uk.png",EuroNews UK
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/euronews.uk.m3u8
+#EXTINF:-1 tvg-id="gb.news.uk" tvg-name="gb.news.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/gb.news.uk.png",GB News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/gb.news.uk.m3u8
+#EXTINF:-1 tvg-id="i24.us" tvg-name="i24.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/i24.us.png",i24 news
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/i24.us.m3u8
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 tvg-id="nbc.news.now.us" tvg-name="nbc.news.now.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/nbc.news.now.us.png",NBC News Now (US)
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nbc.news.now.us.m3u8
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="newsy.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/newsy.us.png",Newsy
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/newsy.us.m3u8
+#EXTINF:-1 tvg-id="rt.russia.today.us" tvg-name="rt.russia.today.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/rt.russia.today.us.png",RT US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/rt.russia.today.us.m3u8
+#EXTINF:-1 tvg-id="sky.news.uk" tvg-name="sky.news.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/sky.news.uk.m3u8
+#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/the.weather.channel.us.m3u8
+#EXTINF:-1 tvg-id="weather.network.ca" tvg-name="weather.network.ca" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/weather.network.ca.png",Weather Network CA
+https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/weather.network.ca.m3u8
 #EXTINF:-1 tvg-id="coronavirus.us" tvg-name="coronavirus.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/coronavirus.us.png",*Coronavirus Pandemic*
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/coronavirus.us.m3u8
 #EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png",5 Star Max (East)
