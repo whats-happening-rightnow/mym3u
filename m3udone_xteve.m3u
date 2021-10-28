@@ -43,17 +43,17 @@ https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.east.us.m3u
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tnt.pacific.us.m3u8
 #EXTINF:-1 tvg-id="tbs.east.us" tvg-name="tbs.east.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/tbs.east.us.png",TBS
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/tbs.east.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
+#EXTINF:-1 tvg-id="nba.los.angeles.lakers.us" tvg-name="nba.los.angeles.lakers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.lakers.us.png",NBA Los Angeles Lakers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.lakers.us.m3u8
-#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
+#EXTINF:-1 tvg-id="nba.los.angeles.clippers.us" tvg-name="nba.los.angeles.clippers.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nba.los.angeles.clippers.us.png",NBA Los Angeles Clippers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.los.angeles.clippers.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
+#EXTINF:-1 tvg-id="mlb.teams.laa.us" tvg-name="mlb.teams.laa.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.laa.us.png",MLB Los Angeles Angels
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.laa.us.m3u8
-#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
+#EXTINF:-1 tvg-id="mlb.teams.lad.us" tvg-name="mlb.teams.lad.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/mlb.teams.lad.us.png",MLB Los Angeles Dodgers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/mlb.teams.lad.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
+#EXTINF:-1 tvg-id="nfl.lac.us" tvg-name="nfl.lac.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lac.us.png",NFL Los Angeles Chargers
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lac.us.m3u8
-#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="spo" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
+#EXTINF:-1 tvg-id="nfl.lar.us" tvg-name="nfl.lar.us" tvg-type="live" group-title="fav" tvg-logo="https://media.tv4.live/nfl.lar.us.png",NFL Los Angeles Rams
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nfl.lar.us.m3u8
 #EXTINF:-1 tvg-id="nba.atlanta.hawks.us" tvg-name="nba.atlanta.hawks.us" tvg-type="live" group-title="Sports NBA NCAAB NCAAW" tvg-logo="https://media.tv4.live/nba.atlanta.hawks.us.png",NBA Atlanta Hawks
 https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/nba.atlanta.hawks.us.m3u8
